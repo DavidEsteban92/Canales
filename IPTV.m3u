@@ -1,0 +1,145 @@
+#EXTM3U
+ 
+# Debes usar la lista de forma remota
+# Para mejor visualizacion de los caneles debes usar una conexion de mas 5mb/s
+# Algunas señales NO funcionan las 24 horas
+# Los canales de cable son INESTABLES, disfrutalos mientras esten activos.
+# Lista en constante mantenimiento, no es gratis
+ 
+ 
+#==============================================================================
+#                              TV Abierta
+#==============================================================================
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="TV Abierta", ONCE TV
+https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/chunklist_w1552060328_b1300000_slesp.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/295px-Logo_Azteca_7_2011.svg.png" group-title="TV Abierta", Azteca 7
+https://dai.google.com/linear/hls/pa/event/1FnFvMQHTl6h-RT9cSU2tg/stream/a4a6ab21-f378-4be2-a62d-0e9b303878eb:TUL/variant/63df65d21881aeb0d92a477b9423f336/bandwidth/732552.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/XHGC.png" group-title="TV Abierta", Canal 5
+https://if4k5u0u1rudmfra.uzcdn828.net:8443/hls/4kxnl.m3u8?s=mQS_oDbFULFrP3yH6_65sQ&e=1621160154
+
+#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/334-3346615_logo-las-estrellas-logo-de-canal-de-las.png" group-title="TV Abierta", Las Estrellas
+https://if4k5u0u1rudmfra.uzcdn828.net:8443/hls/bsg12zvu4e01i7.m3u8?s=WimW8nn_aImlgom6IXAt3A&e=1621167403
+ 
+#==============================================================================
+#                              ENTRETENIMIENTO
+#==============================================================================
+
+#EXTINF:-1 tvg-logo="https://s03.s3c.es/imag/_v0/640x300/d/c/7/axn-nuevlogo.jpg" group-title="Entretenimiento", AXN
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CpEFBCSI7IVLEt_DAx0Ls9tPDPB8IlgsVGMuMYujV4f8nfPj1zABBFDtRv3F_Dhw1s9lRmmAW9r10_IxEHxVeGCSQCpGWJdYuIV7FBO4LMNiJH5FUylf3R36hbVky9i82DqppC41sXZ38XMlzYmid_Sm9UeWmiQjVR0p9EyPDAcM4CCL1HpILfNUgkwB9URgXAmbM9RUWIYlaAJfWA6wwzoVHkaU0UBLKL1093678nmfpX0kiqd287hGUFMZ6NMi8m_-2n2Adyl7zYtGgOo3zzK3DrdFGYJeV17Wtc5hVGAdIO9mry2xCCU71ZP33v9zrX2OsZKYuYim5LDQ-vGn0b_Z2lyNr6hgWi9bC3eTbtIvkhOf5rXDYEyI-pjzSJXcMCMFKT1j4gEwfJIOehcC88LvGyxGU7MRKrgDLwY3Zfa0do9VLVtmwkDW6boEhFGtJQ_bS4vPvPsairmoMXmNyminREoqiV-T2HBoEqQjQ0c6Zrc7Q-V8PXJSuZyILxca4Krkv9ZayYdA6zzm7aRUWI3l4JBUNe9h-TJxhjDsbhIXqvx84Rtx8yH_hx9Otf1oMBNeDSIFpKmTYixLj4-DKz0_T5wsOjAOHHDpCY1leizRAItY-Wyf6lFuMiFJEJUtX8dRbs712agof78nYwJ-nFK8IDlHVP5L_sS7tEnZyQ-veDHiAfRrcjn2fIeNyHRUGVphmhz0mWYrwbQGU_rgBzYvMHe17o7eLgvg0pCH5DYum9fXVle5bsZhs45MTYIblQ6e9r6dqSWLnXgKB2p7-tkYPUfp2TRIhNyo_-ox-s7Y6n4xCpmi_75EO1xuOu4-MVtP8CZhaRQUqJ2c9lMPHdGEfyukToUPezZ8Zi3jEEoRXnueEhASfHtO3spp1wBvwh9h6wn3Ggzx5cElSZ_pmK430cA.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ipuntotv.com/IMAGES/Distrito-Comedia-Logo-2019.jpg" group-title="Entretenimiento", Distrito Comedia
+https://yctr2qqvyayk0t4p.ezcdn654.net:8443/hls/3cmcveklru0.m3u8?s=c6rY6RG7kvaMXbscuYp0ew&e=1621165348
+ 
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180611/vue/kisspng-comedy-central-logo-tv-television-channel-television-comedy-5b1f243837edd7.0563476715287675442291.jpg" group-title="Entretenimiento", Comedy Central
+https://if4k5u0u1rudmfra.uzcdn828.net:8443/hls/2axwudw.m3u8?s=RwB6s8PTEm4yDUbC7xM29A&e=1621154623
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Entretenimiento", TNT Series
+https://yctr2qqvyayk0t4p.ezcdn654.net:8443/hls/1gm313e68bu.m3u8?s=cy_dkqz5o7UearkCp1JrEA&e=1621164724 
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/2000px-Warner_Channel.svg.png/revision/latest?cb=20151012200949&path-prefix=es" group-title="Entretenimiento", Warner Channel
+https://if4k5u0u1rudmfra.uzcdn828.net:8443/hls/yobal.m3u8?s=phfvV4G4SafRPZnpDU3nwA&e=1621154454
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png", group-title="Entretenimiento", A&E
+https://yctr2qqvyayk0t4p.ezcdn654.net:8443/hls/2e2faf.m3u8?s=TETLwtV-iSQu87JemV1TSg&e=1621165686
+
+#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg", group-title="Entretenimiento", Star Channel
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CpgFTzOw1V5nQqoA8_KdkWUMxlRvF85wC2AIN3FFMPqb5EdxN1A5jq2GEZZhfVjsN5JjPCPqE6AllV0Y_3BBkaciDcI4N5JDBs_nC_0OFwCUfOKua1z5iclyw8kp8e5cr2DnUJmHWUQzUojIYhz1tfV0jyrWKejid-1BiBrMVCTSZuvGm-d8ObOWkAL2qT_OEwPabm27J8IdPaHnm0xEjjTIqpKShYuDAYQ125ClZyZODf_R3gVEL0p_rIe1U9kwB7HNnjJvdFQ6i2Ip7S6LvsKjQ4q3n5yjU6uHTEOTnZenWfzyuBvGCjMTvU4taL2TSPyYh5hDaPZcGEYAvrAk5v4NRPAWDXxge1s0kNaPHe0Qpte6ApcFDF3J6EQ6U-JNEY960KEYssha3ngXvLypin-CdxCKkAe6qd1tMj_80Y7Whf22xiywzlnLQy0DavDSTnwfdMQ8a3FGbYvoA_tux95egs-eZMyeW4kRE2dUZhhRXmyLx3LRV3M2FUQoO3Z_zx-wdYZhXWF90ZTLu6JUnyrErhktStauyvp-J7RB3Rri3Kt9Y0c8t5AUk-8O1yEdQYB2MPORTwXAdOWew7kzY1y5f2Wjkpj-sK4hoKsFYPW6Vt56OJxhWP6MODLYS9tRJWS2SsN4Db4_tEfTUZgPLWCPMIGPFgNBybEOH8e-h5T151hZTKM9tENk0wTVjUQW3dr7_rj5k0_4Ang4cxs97oZtN1skbk-dzVj9D6m94uYMFYBpDdkpuh7pI0xE6UK40gu0P_W-f8OvjvDqnWkXKvLUjhOp-DRhdTKhhYxpPwJan30Flehp-qKUxZipnClPUG0iJhkgliAiT-Z6H0JUZV3JhQpBvvkNTtafAke8OBI6uZLnLx6HhGTDDRIQ1mkdor91914nni7msHZw0RoMJ9Sd1mjwQ5Nsh0Lo.m3u8
+
+#EXTINF:-1 tvg-logo="https://diariodeunatelefila.files.wordpress.com/2014/10/logo-fox-life.png", group-title="Entretenimiento", FOX LIFE
+https://yctr2qqvyayk0t4p.ezcdn654.net:8443/hls/ki90p7m7dr8n.m3u8?s=gVYdgVyGGsfIvcdysmBDJg&e=1621163251
+
+#==============================================================================
+#                             Infantil
+#==============================================================================
+
+#EXTINF:-1 tvg-logo="http://cdn26.us1.fansshare.com/photo/disney/disney-channel-logo-interview-ne-etzi-vp-directrice-rale-de-disney-channels-pictures-logo-1299437818.jpg", group-title="Infantil", Disney Channel
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/Cp0FaOjTysKgHloAM8rrNIYkGETFwLvrDGolvBHRjzT9aeVPx79MrP7hq0SpM1sXdA-1s1R7T4hR5ej3QmFZdkZGt9h8Ufsdqo80BRGcIPcXSVxV-M9LvrgaOMAbDOCi4KYx2v_DkWvs_CcsxcEJ38oeP2PL2fh2e9tOo8RCe4HHxqF_MbyRMBKTgl9ynb1qNtRZ-9w3-z8uB00iINMulnvbsDd2CBECjAeAMFbZdqK_dMB0htO2H8el5TlyJS2u83ZboVNUj9aYncKbc3p_Ba6hqkookfsnWPoXky0UxyTY1JjCp0bczs40SvN28QdA-RR4MZFEzdTVKGiJGU4fXZsb675DWyPGtym1ezOiQdisuNiGl00GfVglT-fxgoU7evR9b8VAPOU3sfYHSY6xL_9ZAGPjabvgXwvHcKBkeHhLYU5Vp-lc7VA8Kc0iFm5KEukKlnLYVvw3sj5L_HUJjvxjNRbw2qmKBv1cH8_RpDSCta6OD-XDWGOjaEWguRpe9qWfd-_xSyNBWNcCnSew4ZMhM315XmfN_ERVfXNf2K7srbqGtFunGlPbPPmnmCgGSiw8X1XPxvMuq8QpmUQLRInPOpia2f7R6pzq6-IwijiqpMbKCdfYQfVbncWtvILhNH1vjf67kHYVCKaTvy-8AMFzvgdc5FwBVf0MQJQfQCfINnRBN5PKn4WhLJiwhWOOWXCQVyGOHsZiGJnnxf7EZBl3fDGmge0yN5H5Or16xdzGKgiLc4J9nRVbFz933tdo6D4_50ZKdJuPHlTUiV7rfLstV_qu2AD9GMM6ZuESJilYkwpUs8akkYx3PS2TyG6quhcIivjp2kWQv1JIL7SgIYuTGvTSPkkE5929nqaUIpBTXP9HvNOYa4G-_mbNEttrEhC2_4zAQ_FgNf6amGOHMcsJGgwSN0xMgUJ_jVapoMc.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.milenio.com/GHWbQ0-MFQI6VwSNEf4HxKkYMRE=/958x596/https://www.milenio.com/uploads/media/2015/01/19/disney-xd-inicio-grabaciones-serie.jpeg" group-title="Infantil", Disney XD
+https://if4k5u0u1rudmfra.uzcdn828.net:8443/hls/e4jegqx.m3u8?s=x9Err0Go4lL_DoK-QSH27w&e=1621161009
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="Infantil", Cartoon Network
+https://if4k5u0u1rudmfra.uzcdn828.net:8443/hls/6lfyznozxwfmb5o.m3u8?s=SW0WJmV6Tmbyt4kp_kMEPg&e=1621152076
+ 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Imjqvld81iV88WeXZGBqrBJ6rDUm5N5WlFP7rEZ48Rhx9jNXfiSVF6vYr89ASc5yA_Q=w300" group-title="Infantil", Nick
+https://yctr2qqvyayk0t4p.ezcdn654.net:8443/hls/hg3b4k9kc.m3u8?s=i1QkM9KfJGMbiL246Stzqw&e=1621161725
+ 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png", group-title="Infantil", Nick 2
+https://if4k5u0u1rudmfra.uzcdn828.net:8443/hls/dw510ac02mnw17m.m3u8?s=mEwXiBkyI0tdbZuSchNnOQ&e=1621162129
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", group-title="Infantil", Boomerang
+https://yctr2qqvyayk0t4p.ezcdn654.net:8443/hls/bolmwc.m3u8?s=0HRbkAMz7f0c24yP45ydvQ&e=1621161796
+ 
+#==============================================================================
+#                              Cultura y Ciencia
+#==============================================================================
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png", group-title="Cultura y Ciencia", Discovery h&h
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CqEFV4t1L9EixTZxzeLEOjmdecxvKRwp9m09ZkK2IX5Hef46OEi6Hk8YDMkSOGRtP3tIS5NwiAj116sGwGhWKFpyCkB2edz1GSWrCso9bBHP2kkIO9OEPrvX2k4mAw2SQ_ojAeHlSPZY0wDdv2VHrxUoRoq0jkhgd5kKYu2aBKYsdU_FCz2Xf4f2vY1Dvo6sCRI_7uaXWdM7D5AaLAgHu4lF9BUml4s8YR6BOFX7CfpdlZkhYT0YYcFvhJ8z-T_gcsWYO_wonqMZJOVNr4IoXMThV-wWsXLrjeAbswwMKHqUyRrAZSVpfj9RrIr5pV0XkLzVc_2XACXw6MPQmVD_OJ6H390wr1ZdqUBCMNTPMc9GD6KM5JG7NHgqcmLaoARtaWauGbdxp3d_nBM3Ptza7VBI2E4k1zz0DTLfhbg2Otm4_QFtH3W7KvLqbhZ484zU3U3kcsFIWtNKKQpWWByZYnte0kl_Su_T1qPPY1rZIjOP8XDu7qje8e725X8_r3o6ssAWTRfhvfqjc9sKIqI4-t9GOt1DPdbmDnOvXJYEccjH794xf_8X3AVf0iIuDHLRm8b0nDl8gdPGdDqULwAky2fUtIih5T42HSR4pHZZBms6zoKVdIYfSDqLXz_mwKv17U0VlyU01hPaGMY292725BcX-xOfaRD45GKCKek42PcB3igUDV_TDxFMXwErhvylKz57NCer14QIKdjCmwTdsZkzzEgP50fg4KHgPTP7vap7jgJTRa0cekAyrvzW6i2zGDSXb6Z2P-q6jxNpLU2qHsd6KLAXbXi8xgpGF0llL4-N2KMJ3uhnQdZlFkdZcqHgET0OToirZrx388BAlRNZroJMsXDTqOJxMgo_B4owd1aTSf_LJ-NaFtDt8UVUwaWMCzXUXRIQjkqEpelt96cVAreFiB4iUxoM80VNLvafgXnYdUdE.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0050418.png", group-title="Cultura y Ciencia", Discovery Channel
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CpwFzc4GWh5yyN2PLk_vbxVDo2_BaSUQ1t0xzo20TSMdkULfiLGhCwSoF6-wjP25S-mwwfQeDawVCSkij7ePamHSax-_yzrtqthEekRczhGdMs10FdxDgZhBWdsQN1H5zoNimkjlUvDoT9XbXaDTE_FirWZ5jkDAf4m7obLd6HcF7B-ZJ7eufWTNnpgfWt2E15OsMvTe7-K8n4wzvvtUShqE4_W_y2_JN7n6HSJCZdAIluUBXMNkn4eAUSFMAsnx2aayDwGmLjjeZu2STvAlfKWJY9Jy0JqopZPBnX6mqaXotoqHCbDAyiMWbQxTtSDdLk8etGo4C13Uvg1OTPVAHAoOiiNn7ePfMhmwWpph6LNr3QJmxljv_wzyqMY2YLBDvajanu2kxxpJFdZdfC33ShBw9-B9r4bKwASJTQa_7d7Fin43JuI_5qymKSJKcyKDgMyfodp_3HLF5xD02hmBlx1EYyNK37nKRGlCpfCkw3A51mDi6C1_eXN8yJHhLHdaGrhUa-OHA4-4VIpNIl9bE48QNJpfUYOpz_cyML63zGwXmbaIFnfner3zC9AipRoAqIWFtouldYPCTyB3thDSQIG_tkKum_-FLvTQ6p-S9pI9mP6DPSFasZN70Klb-HBAo5p8gRZuCt3ZHMkxE8Hov332AvH1kbgin19nlDr6Q4l9umgXFZiyGh3bnxZNkKbBUMzVFv9WIYjveT1JI-Sjq2TwdFV-l6iurOb7uf6E3aLsio509kK_hkBnfC2LsbM5hSQi8lZ0RrC28kAqur7i1EVF63o3f8qcKYwD3OcdHOXQ76gUAjz4CXUWeWGN_YT9dkjxiZTyI6sqp3VFqANZyxquvpTLcrTadaiz7YlCrCtvSaLu5WmYmxOZkTjL38MSEBMRhkY9pdCZX38ZRtFVPM4aDMysRikiEqBQprcG0A.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="Cultura y Ciencia", Discovery ID
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CpsFh3S8OgvtNjD2f1AqWXJV-fa7ZHPAUQdPNfyNc3pzw70wyQfJbe48R4gFKhXdyUX6okPhH5bQy_iusf46GyF9WRh-s-cONqun5QPRHdsYgt2orKhu-ng_WXXo4Ydsj5IYF9Wjq1cO8VjrpeGO_C3RhlBpJUry_H0CCSdwRVKU1bxFXjkjgpzJHgBJNyHB5Tk4erLynOqoSQjKlpV6zT67dIf19japMVbDKHjf0CBEVzhXbhNxrZ6KpPr_beUr8ANiPvp_VM7xJb5RgoV-43Xbprul3hNLa6l9Ze6kvorz2-u--Rx8f3eAx4qVIayfoKscFiZvzffY-eOY8GxFGMLES8bb56shjM-5BnrSGeUnO4Mr9eVDS_s00C_c9gZUMQzqo6N1HFbjw0B55IZxkXGCHUVnKvJ-d-8D2HZTw-3kstHPOT2-UM_e0AK8w3-xnSLj-wVYeFiN1RCQ_qux2AVTQgIQtQzs5KoHvJPJZ7hPzEk7Nr9-nVtzOPq0WJlTpB9GFSQ2J40rHs19yCMp7H135WY8TDsznKySSoMsrGVlINV4OP_LW_zubouVIqxemGVrwQ9zD-ChSB53FBPHqyx-kAQgsM9qSsmolki9OV_X_Mv7T4epRDr3tqO2kUA_8EEyeYf5zVmD6f0pZjp7uLlMY4tasVy7a0rjKvjib_JpftM5-S5z2WLWn_crGgT5fGI2EmuW8LLkfZ9HG5AckOb9W7D8xKcPN-5VOX7NpsheX1m0Bgw1bWvDUJSfySyCAmmaJNIqiFwHQ3FWU79nvAk3UT-0_8TNv2RCiik0Qgd8lE_FCQ4mkjn2XV2pTpDeF1yQbbDFPlsyw_k9SsCeaJ38265AgiLffHZtfM8_p5IfaxOsZzLalnpiAxtg6hIQXfnsZQg4-VriNoaajv9RBxoMsir6Iguz-SXvSfJW.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/history_channel-logo.png" group-title="Cultura y Ciencia", History
+https://yctr2qqvyayk0t4p.ezcdn654.net:8443/hls/b5orbxs8ze8.m3u8?s=Y4M8LtpuFD8SSHCCKi67Ag&e=1621153851
+ 
+#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/03/H2-Logo.png" group-title="Cultura y Ciencia", H2
+https://if4k5u0u1rudmfra.uzcdn828.net:8443/hls/asdquxr.m3u8?s=ftcVn_9YJ56-vzH6gDyQ9Q&e=1621153069
+ 
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png", group-title="Cultura y Ciencia", Nat Geo
+https://yctr2qqvyayk0t4p.ezcdn654.net:8443/hls/mjkj17z7apo7xp.m3u8?s=_rAu2ogI1OaCqenJU22ESw&e=1621162835
+ 
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/NATGEOWILD.jpg", group-title="Cultura y Ciencia", Nat Geo Wild
+https://if4k5u0u1rudmfra.uzcdn828.net:8443/hls/842uq0vsfwqlx.m3u8?s=dfF1nR3rn9vUL-Fun70fQg&e=1621160299
+
+#EXTINF:-1 tvg-logo="http://www.cromosmexico.com/blog/wp-content/uploads/2018/10/Captura-de-pantalla-2018-10-19-a-las-11.44.27.png", group-title="Cultura y Ciencia", Animal Planet
+https://yctr2qqvyayk0t4p.ezcdn654.net:8443/hls/0mv17x.m3u8?s=8XnA5uiIedElaUUH8RakIQ&e=1621166823
+ 
+#==============================================================================
+#                              Peliculas
+#==============================================================================
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png", group-title="Peliculas", Golden
+https://if4k5u0u1rudmfra.uzcdn828.net:8443/hls/xfi9lblmxn47o.m3u8?s=gPLnliIi1E99Q28szVCTyw&e=1621159390
+ 
+#EXTINF:-1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2020/03/cinemax.jpg", group-title="Peliculas", Cinemax
+https://yctr2qqvyayk0t4p.ezcdn654.net:8443/hls/p94egqya1e.m3u8?s=VuYFMwzN5WfhfQIomQSu1Q&e=1621157611
+ 
+#EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/tnt.png" group-title="Peliculas", TNT
+https://yctr2qqvyayk0t4p.ezcdn654.net:8443/hls/lqo9fv.m3u8?s=6jvSd-BOisaM6wl_xSLsRA&e=1621154278
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_fx_m.png", group-title="Peliculas", FX
+https://if4k5u0u1rudmfra.uzcdn828.net:8443/hls/tmrzr0.m3u8?s=yc07lTWP8JJtGSbSeyIJYQ&e=1621164875
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", group-title="Peliculas", Cinecanal
+https://yctr2qqvyayk0t4p.ezcdn654.net:8443/hls/jkj5j.m3u8?s=bvdemPSetH22S9qtt1I58A&e=1621164961
+ 
+#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/12/universal-channel-logo-768x395.png" group-title="Peliculas", Universal Channel
+https://yctr2qqvyayk0t4p.ezcdn654.net:8443/hls/9f8fu2.m3u8?s=tw7YXnD6487uzCRE5Hvd7A&e=1621154927
+ 
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/523/503/png-clipart-universal-s-studio-universal-television-channel-studio-miscellaneous-television.png", group-title="Peliculas", Universal Studio
+https://if4k5u0u1rudmfra.uzcdn828.net:8443/hls/01pjgp28gp0u.m3u8?s=hxhIcGjptx6mSHN-WgNFZg&e=1621159510
+ 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="Peliculas", Space
+https://if4k5u0u1rudmfra.uzcdn828.net:8443/hls/vdjqriuj6.m3u8?s=YRn8_0S_ao66mdzQOBFq0w&e=1621157527
+ 
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-logo.png" group-title="Peliculas", HBO
+https://yctr2qqvyayk0t4p.ezcdn654.net:8443/hls/dp7r8.m3u8?s=FPsEyNHvufXmO4uggnl5Ig&e=1621165780
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png", group-title="Peliculas", HBO 2
+https://yctr2qqvyayk0t4p.ezcdn654.net:8443/hls/7k8po6ket.m3u8?s=sK68Yrr1Jfoqi7sjh75OOA&e=1621162270
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", group-title="Peliculas", HBO PLUS
+https://yctr2qqvyayk0t4p.ezcdn654.net:8443/hls/wgqlyzrp1w9x.m3u8?s=6FTQPOJcUwM5Oxmv5XeymQ&e=1621165877
+
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/LOGO-HBO-FAMILY-NUEVO.jpg", group-title="Peliculas", HBO FAMILY
+https://if4k5u0u1rudmfra.uzcdn828.net:8443/hls/ms9pnqlkn1b.m3u8?s=v4yfq3nWAZ5pgrSZ4dSSOQ&e=1621165976
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-aQtO6VFkt6A/T1TZw_lbd2I/AAAAAAAAAVg/UTqMVaRCohE/s1600/paramount+tramuntel.jpg", group-title="Peliculas", Paramount
+https://yctr2qqvyayk0t4p.ezcdn654.net:8443/hls/hsdk4gixos.m3u8?s=yWPU7gTnZ_yLHjoaabkb0Q&e=1621166097
