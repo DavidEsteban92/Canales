@@ -16,7 +16,13 @@ https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/chunklist_w1552060328_b13
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/295px-Logo_Azteca_7_2011.svg.png" group-title="TV Abierta", Azteca 7
 https://dai.google.com/linear/hls/pa/event/1FnFvMQHTl6h-RT9cSU2tg/stream/a4a6ab21-f378-4be2-a62d-0e9b303878eb:TUL/variant/63df65d21881aeb0d92a477b9423f336/bandwidth/732552.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://abelinux.xyz/wp-content/uploads/2019/09/comcab-azteca-uno.png" group-title="TV Abierta", Azteca UNO
+https://dai.google.com/linear/hls/pa/event/SJysMl45QMSwjo0TodSk1Q/stream/3aff79ca-a41a-4c36-a3dc-d23d5da0927f:TUL/variant/821cfd838a41703357a68f0843085976/bandwidth/638000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.eluniversal.com.mx/sites/default/files/2017/10/11/adn400.jpg" group-title="TV Abierta", ADN 40
+https://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/8d0c1c00-f8fc-4eb6-829f-6da74d4c85eb:TUL/variant/97a11b0719217f7ac6884245eecf81e4/bandwidth/484000.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/XHGC.png" group-title="TV Abierta", Canal 5
 https://if4k5u0u1rudmfra.uzcdn828.net:8443/hls/4kxnl.m3u8?s=mQS_oDbFULFrP3yH6_65sQ&e=1621160154
 
